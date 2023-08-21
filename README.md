@@ -1,26 +1,26 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+AJ Anderson  Electrical Engineering 2025
+ajanderson@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+n/a
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+n/a
 
 ## Current Status
-Complete
+incomplete
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Design, Build and Test a working FM/AM radio from the component level. I would like to be able to control volume, switch between FM and AM radio, as well be able to tune my radio into multiple channels. I want to explore how to take a project from component level to a finished and polished design. I would consider my project a success if I can create a working radio with all specifications above that fits neatly into a 3D printed shell.   
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project would teach me the fundamentals of how radio waves interact with circuits. This would allow me to broaden my understanding of radio wave signals as well as learn about the inner workings of a radio at the component level. My circuit design and analyzation skills would greatly improve. I would also learn how to design, create and assemple a case/enclosure for a final product. This project would help teach me how to apporach a large design oriented project and ultimatley produce a polished final product.
 
 ## Tasks
 
