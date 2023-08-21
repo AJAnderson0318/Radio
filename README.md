@@ -20,7 +20,7 @@ Design, Build and Test a working FM/AM radio from the component level. I would l
 
 ## Educational Value Added
 
-This project would teach me the fundamentals of how radio waves interact with circuits. This would allow me to broaden my understanding of radio wave signals as well as learn about the inner workings of a radio at the component level. My circuit design and analyzation skills would greatly improve. I would also learn how to design, create and assemple a case/enclosure for a final product. This project would help teach me how to apporach a large design oriented project and ultimatley produce a polished final product.
+This project would teach me the fundamentals of how radio waves interact with circuits. This would allow me to broaden my understanding of radio wave signals as well as learn about the inner workings of a radio at the component level. My circuit design and analyzation skills would greatly improve. I would also learn how to design, create and assemble a case/enclosure for a final product. This project would help teach me how to approach a large design oriented project and ultimately produce a polished final product.
 
 ## Tasks
 
